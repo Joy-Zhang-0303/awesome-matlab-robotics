@@ -259,7 +259,7 @@ v
 <li><a href="https://blogs.mathworks.com/student-lounge/2017/11/08/matlab-simulink-ros/?doing_wp_cron=1588711755.3957149982452392578125">Getting Started with MATLAB, Simulink and ROS</a></li>
 <li><a href="https://www.mathworks.com/help/ros/referencelist.html?type=function">MATLAB support for ROS and ROS 2</a></li>
 <li><a href="https://www.mathworks.com/help/ros/examples.html?category=ros-in-simulink">Simulink Support for ROS and ROS 2</a></li>
-<li><a href="https://www.mathworks.com/help/ros/custom-message-support.html">Support for ROS Custom Messages</a></li>
+<li><a href="https://www.mathworks.com/help/ros/ros-and-ros2-custom-message-support.html">Support for ROS Custom Messages</a></li>
 <li><a href="https://www.mathworks.com/help/ros/ug/generate-a-standalone-ros-node-from-simulink.html">Automatic ROS Node Generation from Simulink</a></li>
 <li><a href="https://www.mathworks.com/videos/deploying-ros-node-on-raspberry-pi-1587374778793.html">ROS Node Generation for Raspberry Pi</a></li>
 </ul></td>
